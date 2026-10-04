@@ -334,5 +334,3 @@ node_modules/
 .env
 .env.local
 ```
-
-Your README now directly maps your implementation to the evaluator's requirements, which is better than a generic React README because the reviewer can quickly see **where and how you satisfied the brief**.
